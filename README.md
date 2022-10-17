@@ -20,7 +20,7 @@
 </p>
 
 ## ⚡ GitHub Stats
-<div style="display: flex; justify-content:center; gap:20px">
+<div style="display: flex; gap:10px">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=idrisyigit&show_icons=true&theme=highcontrast" />
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idrisyigit&theme=highcontrast&layout=compact" />
 </div>
