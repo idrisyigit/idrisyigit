@@ -19,10 +19,14 @@
     <a href="https://getbootstrap.com/" target="_blank"><img src="./assets/bootstrap.logo.png" width=40 height=40></a>
 </p>
 
-## ⚡ GitHub Stats
-<div style="display: flex; flex-direction:row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=idrisyigit&show_icons=true&theme=highcontrast" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idrisyigit&theme=highcontrast&layout=compact" />
+## :trophy: GitHub Stats
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=idrisyigit&theme=vision-friendly-dark">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=idrisyigit&count_private=true&show_icons=true&theme=vision-friendly-dark" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=idrisyigit&hide=php&theme=vision-friendly-dark">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idrisyigit&hide=php&theme=vision-friendly-dark" />
+</a>
 </div>
 
 <!---
