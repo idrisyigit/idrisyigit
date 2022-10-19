@@ -22,11 +22,32 @@
 ## :trophy: GitHub Stats
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=idrisyigit&theme=vision-friendly-dark">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=idrisyigit&count_private=true&show_icons=true&theme=vision-friendly-dark" />
+  <img style="height: 100%; max-height:200px; min-height:200px; align="left" src="https://github-readme-stats.vercel.app/api?username=idrisyigit&count_private=true&show_icons=true&theme=vision-friendly-dark" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=idrisyigit&hide=php&theme=vision-friendly-dark">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idrisyigit&hide=php&theme=vision-friendly-dark" />
+  <img style="height: 100%; max-height:200px; min-height:200px; align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idrisyigit&hide=php&theme=vision-friendly-dark" />
 </a>
+</div>
+
+<div align='center'>
+<table>
+  <tr>
+      <th colspan="2">MY PROJECTS</th>
+  </tr>
+  <tr > 
+      <th>HTML - CSS</th>
+      <th>JavaScript</th>    
+  </tr>
+
+  <tr style="text-align:center;">
+    <td><a href="https://github.com/idrisyigit/Medium-Clone" target="_blank">Medium Clone</a></td>
+    <td>Coming Soon</td>
+  </tr>
+    <tr style="text-align:center;">
+    <td><a href="https://github.com/idrisyigit/Medium-Clone" target="_blank">Medium Clone</a></td>
+  </tr>
+  
+</table>
 </div>
 
 <!---
