@@ -20,19 +20,22 @@
 </p>
 
 ## :trophy: GitHub Stats
-<div>
+<!-- <div>
 <a href="https://github-readme-stats.vercel.app/api?username=idrisyigit&theme=vision-friendly-dark">
   <img style="height: 100%; max-height:200px; min-height:200px; align="left" src="https://github-readme-stats.vercel.app/api?username=idrisyigit&count_private=true&show_icons=true&theme=vision-friendly-dark" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=idrisyigit&hide=php&theme=vision-friendly-dark">
   <img style="height: 100%; max-height:200px; min-height:200px; align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idrisyigit&hide=php&theme=vision-friendly-dark" />
 </a>
-</div>
+</div> -->
 
-<div align='center'>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=idrisyigit&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="idrisyigit" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=idrisyigit&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="idrisyigit" width="50%" /></p><br />
+
+<!-- <div align='center'>
 <table>
   <tr>
-      <th colspan="2">MY PROJECTS</th>
+      <th colspan="2"></th>
   </tr>
   <tr > 
       <th>HTML - CSS</th>
@@ -48,7 +51,7 @@
   </tr>
   
 </table>
-</div>
+</div> -->
 
 <!---
 idrisyigit/idrisyigit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
