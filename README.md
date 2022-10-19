@@ -20,7 +20,7 @@
 </p>
 
 ## :trophy: GitHub Stats
-<div style="display:flex;">
+<!-- <div style="display:flex; flex-direction: row;">
     <div>
       <a href="https://github-readme-stats.vercel.app/api?username=idrisyigit&theme=vision-friendly-dark">
       <img src="https://github-readme-stats.vercel.app/api?username=idrisyigit&count_private=true&show_icons=true&theme=vision-friendly-dark" />
@@ -31,7 +31,11 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idrisyigit&hide=php&theme=vision-friendly-dark" />
       </a>
     </div>
-</div>
+</div> -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=idrisyigit&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="idrisyigit" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=idrisyigit&show_icons=true&locale=en&theme=vision-friendly-dark" alt="idrisyigit" width="50%" /></p><br />
+<br/>
+
 
 
 
