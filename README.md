@@ -32,7 +32,7 @@
       </a>
     </div>
 </div> -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=idrisyigit&show_icons=true&locale=en&theme=vision-friendly-dark" alt="idrisyigit" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=idrisyigit&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="idrisyigit" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=idrisyigit&show_icons=true&locale=en&theme=vision-friendly-dark" alt="idrisyigit" width="50%" /></p><br />
 <br/>
 
