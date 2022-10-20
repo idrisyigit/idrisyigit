@@ -20,46 +20,68 @@
 </p>
 
 ## :trophy: GitHub Stats
-<!-- <div style="display:flex; flex-direction: row;">
-    <div>
-      <a href="https://github-readme-stats.vercel.app/api?username=idrisyigit&theme=vision-friendly-dark">
-      <img src="https://github-readme-stats.vercel.app/api?username=idrisyigit&count_private=true&show_icons=true&theme=vision-friendly-dark" />
-      </a>
-    </div>
-    <div>
-      <a href="https://github-readme-stats.vercel.app/api/   top-langs/?username=idrisyigit&hide=php&theme=vision-friendly-dark">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idrisyigit&hide=php&theme=vision-friendly-dark" />
-      </a>
-    </div>
-</div> -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=idrisyigit&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="idrisyigit" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=idrisyigit&show_icons=true&locale=en&theme=vision-friendly-dark" alt="idrisyigit" width="50%" /></p><br />
-<br/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=idrisyigit&show_icons=true&locale=en&theme=vision-friendly-dark" alt="idrisyigit" width="48%"/></p>
 
 
-
-
-
-<!-- <div align='center'>
+## 🚀 My Projects
+<div align='center'>
 <table>
-  <tr>
-      <th colspan="2"></th>
-  </tr>
   <tr > 
-      <th>HTML - CSS</th>
-      <th>JavaScript</th>    
+      <th>HTML & CSS Only</th>
+      <th>Bootstrap</th>   
+      <th>JavaScript</th>     
   </tr>
 
   <tr style="text-align:center;">
-    <td><a href="https://github.com/idrisyigit/Medium-Clone" target="_blank">Medium Clone</a></td>
+    <td><a href="https://github.com/idrisyigit/QR-Code" target="_blank">QR Code</a></td>
+    <td><a href="https://github.com/idrisyigit/Music-Store" target="_blank">Music Store</a></td>
     <td>Coming Soon</td>
   </tr>
-    <tr style="text-align:center;">
+  <tr style="text-align:center;">
+    <td><a href="https://github.com/idrisyigit/Cafe-Menu" target="_blank">Cafe Menu</a></td>
+    <td><a href="https://github.com/idrisyigit/Bootstrap-Task" target="_blank">Landing Page</a></td>
+  </tr>
+  <tr style="text-align:center;">
+    <td><a href="https://github.com/idrisyigit/Colored-Markers" target="_blank">Colored Markers</a></td>
+    <td><a href="https://github.com/idrisyigit/Instagram-Clone" target="_blank">Instagram Clone</a></td>
+  </tr>
+  <tr style="text-align:center;">
+    <td><a href="https://github.com/idrisyigit/Registration-Form" target="_blank">Registration Form</a></td>
     <td><a href="https://github.com/idrisyigit/Medium-Clone" target="_blank">Medium Clone</a></td>
   </tr>
-  
-</table>
-</div> -->
+  <tr style="text-align:center;">
+    <td><a href="https://github.com/idrisyigit/Survey-Form" target="_blank">Survey Form</a></td>
+    <td><a href="https://github.com/idrisyigit/LinkedIn-Clone" target="_blank">LinkedIn Clone</a></td>
+  </tr>
+  <tr style="text-align:center;">
+    <td><a href="https://github.com/idrisyigit/Rothko-Painting" target="_blank">Rothko Painting</a></td>
+  </tr>
+  <tr style="text-align:center;">
+    <td><a href="https://github.com/idrisyigit/Photo-Gallery" target="_blank">Photo Gallery</a></td>
+  </tr>
+  <tr style="text-align:center;">
+    <td><a href="https://github.com/idrisyigit/Nutrition-Label" target="_blank">Nutrition Label</a></td>
+  </tr>
+  <tr style="text-align:center;">
+    <td><a href="https://github.com/idrisyigit/Quiz" target="_blank">Quiz Form</a></td>
+  </tr>
+  <tr style="text-align:center;">
+    <td><a href="https://github.com/idrisyigit/Tribute-Page" target="_blank">Tribute Page</a></td>
+  </tr>
+  <tr style="text-align:center;">
+    <td><a href="https://github.com/idrisyigit/Google1998-Clone" target="_blank">Google 1998</a></td>
+  </tr>
+  <tr style="text-align:center;">
+    <td><a href="https://github.com/idrisyigit/Google-Clone" target="_blank">Google</a></td>
+  </tr>
+ </table>
+</div>
+
+
+
+
+
 
 <!---
 idrisyigit/idrisyigit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
