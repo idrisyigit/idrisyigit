@@ -34,28 +34,38 @@
   </tr>
 
   <tr style="text-align:center;">
-    <td><a href="https://github.com/idrisyigit/QR-Code" target="_blank">QR Code</a></td>
+    <td><a href="https://github.com/idrisyigit/Google1998-Clone" target="_blank">Google 1998</a></td>
     <td><a href="https://github.com/idrisyigit/Music-Store" target="_blank">Music Store</a></td>
     <td>Coming Soon</td>
   </tr>
   <tr style="text-align:center;">
-    <td><a href="https://github.com/idrisyigit/Cafe-Menu" target="_blank">Cafe Menu</a></td>
+    <td><a href="https://github.com/idrisyigit/Google-Clone" target="_blank">Google</a></td>
     <td><a href="https://github.com/idrisyigit/Bootstrap-Task" target="_blank">Landing Page</a></td>
     <td></td>
   </tr>
   <tr style="text-align:center;">
-    <td><a href="https://github.com/idrisyigit/Colored-Markers" target="_blank">Colored Markers</a></td>
+    <td><a href="https://github.com/idrisyigit/QR-Code" target="_blank">QR Code</a></td>
     <td><a href="https://github.com/idrisyigit/Instagram-Clone" target="_blank">Instagram Clone</a></td>
     <td></td>
   </tr>
   <tr style="text-align:center;">
-    <td><a href="https://github.com/idrisyigit/Registration-Form" target="_blank">Registration Form</a></td>
+    <td><a href="https://github.com/idrisyigit/Cafe-Menu" target="_blank">Cafe Menu</a></td>
     <td><a href="https://github.com/idrisyigit/Medium-Clone" target="_blank">Medium Clone</a></td>
     <td></td>
   </tr>
   <tr style="text-align:center;">
-    <td><a href="https://github.com/idrisyigit/Survey-Form" target="_blank">Survey Form</a></td>
+    <td><a href="https://github.com/idrisyigit/Colored-Markers" target="_blank">Colored Markers</a></td>
     <td><a href="https://github.com/idrisyigit/LinkedIn-Clone" target="_blank">LinkedIn Clone</a></td>
+    <td></td>
+  </tr>
+  <tr style="text-align:center;">
+    <td><a href="https://github.com/idrisyigit/Registration-Form" target="_blank">Registration Form</a></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr style="text-align:center;">
+    <td><a href="https://github.com/idrisyigit/Survey-Form" target="_blank">Survey Form</a></td>
+    <td></td>
     <td></td>
   </tr>
   <tr style="text-align:center;">
@@ -84,15 +94,11 @@
     <td></td>
   </tr>
   <tr style="text-align:center;">
-    <td><a href="https://github.com/idrisyigit/Google1998-Clone" target="_blank">Google 1998</a></td>
+    <td><a href="https://idrisyigit.github.io/Balance-Sheet/" target="_blank">Balance Sheet</a></td>
     <td></td>
     <td></td>
   </tr>
-  <tr style="text-align:center;">
-    <td><a href="https://github.com/idrisyigit/Google-Clone" target="_blank">Google</a></td>
-    <td></td>
-    <td></td>
-  </tr>
+  
  </table>
 </div>
 
