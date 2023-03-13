@@ -94,7 +94,7 @@
     <td></td>
   </tr>
   <tr style="text-align:center;">
-    <td><a href="https://idrisyigit.github.io/Balance-Sheet/" target="_blank">Balance Sheet</a></td>
+    <td><a href="https://github.com/idrisyigit/Balance-Sheet" target="_blank">Balance Sheet</a></td>
     <td></td>
     <td></td>
   </tr>
