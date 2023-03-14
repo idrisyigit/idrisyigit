@@ -19,11 +19,6 @@
     <a href="https://getbootstrap.com/" target="_blank"><img src="./assets/bootstrap.logo.png" width=40 height=40></a>
 </p>
 
-## :trophy: GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=idrisyigit&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="idrisyigit" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=idrisyigit&show_icons=true&locale=en&theme=vision-friendly-dark" alt="idrisyigit" width="48%"/></p>
-
-
 ## 🚀 My Projects
 <div align='center'>
 <table>
@@ -105,6 +100,12 @@
   </tr>
    <tr style="text-align:center;">
     <td><a href="https://github.com/idrisyigit/Piano" target="_blank">Piano</a></td>
+    <td></td>
+    <td></td>
+  </tr>
+  </tr>
+   <tr style="text-align:center;">
+    <td><a href="https://github.com/idrisyigit/Technical-Documentation-Page" target="_blank">Technical Documentation Page</a></td>
     <td></td>
     <td></td>
   </tr>
