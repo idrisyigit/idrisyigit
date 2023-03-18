@@ -114,6 +114,11 @@
     <td></td>
     <td></td>
   </tr>
+  <tr style="text-align:center;">
+    <td><a href="https://github.com/idrisyigit/Magazine" target="_blank">Magazine</a></td>
+    <td></td>
+    <td></td>
+  </tr>
   
  </table>
 </div>
